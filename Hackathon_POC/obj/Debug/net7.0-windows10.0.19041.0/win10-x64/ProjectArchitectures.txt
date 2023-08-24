@@ -1,0 +1,1 @@
+C:\gitlab\Hackathon_POC\Hackathon_POC\Hackathon_POC.csproj;x64
